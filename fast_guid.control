@@ -1,0 +1,7 @@
+# fast_guid extension
+comment = 'Fast GUIDs, based on http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/'
+default_version = '0.1'
+relocatable = true
+module_pathname = '$libdir/fast_guid'
+encoding = 'UTF-8'
+
